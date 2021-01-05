@@ -8,7 +8,7 @@ gem 'parallel'
 gem 'pigments'
 gem 'rake'
 gem 'redcarpet'
-gem 'nokogiri', '~> 1.10'
+gem 'nokogiri', '1.11.0'
 
 group :jekyll_plugins do
   gem 'jemoji'
